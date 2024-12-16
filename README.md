@@ -96,6 +96,6 @@ I have mastered the grid system and from there want to move to javascript framew
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Adeniyiabdulsamad](https://www.frontendmentor.io/profile/Adeniyiabdulsamad)
 - Twitter - [@AdeniyiAbdulsa3](https://www.twitter.com/AdeniyiAbdulsa3)
 - GitHub - [Abdul-ade](https://github.com/Abdul-ade)
